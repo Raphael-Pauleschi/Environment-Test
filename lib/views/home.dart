@@ -32,7 +32,7 @@ class _HomeState extends State<Home> {
               Container(
                 alignment: Alignment.center,
                 padding: EdgeInsets.all(20),
-                color: Colors.blue[200],
+                color: Colors.pink[200],
                 child: Container(
                   child: Image.network(myImage),
                 ),
