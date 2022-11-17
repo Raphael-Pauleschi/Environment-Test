@@ -1,4 +1,4 @@
-# flutter_application_1
+# Environment test in flutter
 
 A new Flutter project.
 
